@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13909" started-at="2021-08-21T15:54:25Z" finished-at="2021-08-21T15:54:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13909" started-at="2021-08-21T15:54:25Z" finished-at="2021-08-21T15:54:39Z">
+      <class name="com.jbk.TestCase2">
+        <test-method status="PASS" signature="Checktext()[pri:0, instance:com.jbk.TestCase2@724af044]" name="Checktext" duration-ms="4839" started-at="2021-08-21T21:24:25Z" finished-at="2021-08-21T21:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checktext -->
+      </class> <!-- com.jbk.TestCase2 -->
+      <class name="com.jbk.TestCase1">
+        <test-method status="PASS" signature="Checktext()[pri:0, instance:com.jbk.TestCase1@29ee9faa]" name="Checktext" duration-ms="4266" started-at="2021-08-21T21:24:30Z" finished-at="2021-08-21T21:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checktext -->
+        <test-method status="PASS" signature="Checktext1()[pri:0, instance:com.jbk.TestCase1@29ee9faa]" name="Checktext1" duration-ms="4749" started-at="2021-08-21T21:24:34Z" finished-at="2021-08-21T21:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checktext1 -->
+      </class> <!-- com.jbk.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
